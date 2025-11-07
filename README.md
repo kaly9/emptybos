@@ -1,7 +1,8 @@
 # The Empty Box and Zeroth Maria - Bilingual Web Edition
+# الصندوق الفارغ وماريا صفر
 
 ## Overview
-This is a bilingual (English/Arabic) web-based reading platform for "The Empty Box and Zeroth Maria - Volume 01" by Eiji Mikage, published by Yen Press.
+This is a bilingual (English/Arabic) web-based reading platform for "The Empty Box and Zeroth Maria - Volume 01" (الصندوق الفارغ وماريا صفر - المجلد الأول) by Eiji Mikage, published by Yen Press.
 
 ## Features
 - ✨ **Bilingual Support**: Full content available in both English and Arabic
@@ -43,6 +44,16 @@ The Arabic translation includes:
 - ✅ Translated chapter titles
 - ✅ Key opening sections translated
 - 🚧 Full content translation in progress
+
+## Arabic Translation
+The Arabic translation includes:
+- ✅ **Corrected Title**: "الصندوق الفارغ وماريا صفر" (The Empty Box and Maria Zero)
+  - Note: "Zeroth" (零) in Japanese means "Zero" as a name/identifier, not an ordinal number
+  - Previous incorrect translation "ماريا الصفرية" has been corrected to "ماريا صفر"
+- ✅ **Professional Translation**: Complete prologue fully translated
+- ✅ **Chapter Titles**: All chapter titles accurately translated
+- ✅ **Key Sections**: Opening paragraphs of major chapters translated
+- 🚧 **Full Content**: Complete translation of all chapters is in progress
 
 ## Technical Details
 - **Encoding**: UTF-8 for proper Arabic character support
