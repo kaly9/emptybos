@@ -1,8 +1,8 @@
 # The Empty Box and Zeroth Maria - Bilingual Web Edition
-# الصندوق الفارغ وماريا صفر
+# الصندوق الفارغ وماريا الصفرية
 
 ## Overview
-This is a bilingual (English/Arabic) web-based reading platform for "The Empty Box and Zeroth Maria - Volume 01" (الصندوق الفارغ وماريا صفر - المجلد الأول) by Eiji Mikage, published by Yen Press.
+This is a bilingual (English/Arabic) web-based reading platform for "The Empty Box and Zeroth Maria - Volume 01" (الصندوق الفارغ وماريا الصفرية - المجلد الأول) by Eiji Mikage, published by Yen Press.
 
 ## Features
 - ✨ **Bilingual Support**: Full content available in both English and Arabic
@@ -47,13 +47,18 @@ The Arabic translation includes:
 
 ## Arabic Translation
 The Arabic translation includes:
-- ✅ **Corrected Title**: "الصندوق الفارغ وماريا صفر" (The Empty Box and Maria Zero)
-  - Note: "Zeroth" (零) in Japanese means "Zero" as a name/identifier, not an ordinal number
-  - Previous incorrect translation "ماريا الصفرية" has been corrected to "ماريا صفر"
-- ✅ **Professional Translation**: Complete prologue fully translated
+- ✅ **Accurate Title**: "الصندوق الفارغ وماريا الصفرية" (The Empty Box and Zeroth Maria)
+  - "Zeroth Maria" (零のマリア) - "Maria the Zeroth" maintains the original Japanese meaning
+- ✅ **Complete Prologue**: Fully translated (468 words)
 - ✅ **Chapter Titles**: All chapter titles accurately translated
-- ✅ **Key Sections**: Opening paragraphs of major chapters translated
-- 🚧 **Full Content**: Complete translation of all chapters is in progress
+- ✅ **Enhanced Content**: Significantly expanded Arabic translations for all chapters
+  - Chapter 1 (Prologue): 100% complete (468 words)
+  - Chapter 2 (1st Time): Complete short chapter (11 words)
+  - Chapter 3 (23rd Time): Expanded opening section (195 words)
+  - Chapter 4 (0th Time): Expanded narrative (212 words)
+  - Chapter 5 (0th Time Part 2): Expanded death scene (263 words)
+  - Chapter 6 (1st Time Part 2): Expanded introduction (236 words)
+- 🚧 **Full Content**: Complete translation of all chapters is in progress (1,385+ words translated)
 
 ## Technical Details
 - **Encoding**: UTF-8 for proper Arabic character support
