@@ -1,0 +1,56 @@
+/* Arabic (RTL) Stylesheet Additions */
+
+.rtl {
+    direction: rtl;
+    text-align: right;
+}
+
+.rtl .language-switcher {
+    right: auto;
+    left: 20px;
+}
+
+.rtl .chapter-list li:hover {
+    transform: translateX(-10px);
+}
+
+.rtl .chapter-content p {
+    text-align: justify;
+    text-indent: 0;
+    margin-bottom: 20px;
+}
+
+/* Use Arabic-friendly fonts */
+.rtl body {
+    font-family: 'Tahoma', 'Arial', 'Segoe UI', 'Traditional Arabic', sans-serif;
+}
+
+.rtl .book-title,
+.rtl .chapter-title {
+    font-family: 'Tahoma', 'Arial', 'Segoe UI', 'Traditional Arabic', sans-serif;
+    font-weight: bold;
+}
+
+/* Adjust navigation for RTL */
+.rtl .chapter-navigation {
+    flex-direction: row-reverse;
+}
+
+/* Adjust back link arrow for RTL */
+.rtl .back-link {
+    text-align: right;
+}
+
+/* Better line height for Arabic text */
+.rtl .chapter-content {
+    line-height: 2.2;
+    font-size: 1.15em;
+}
+
+/* Mobile adjustments for Arabic */
+@media (max-width: 768px) {
+    .rtl .language-switcher {
+        left: auto;
+        position: static;
+    }
+}
