@@ -50,7 +50,6 @@
 /* Mobile adjustments for Arabic */
 @media (max-width: 768px) {
     .rtl .language-switcher {
-        left: auto;
         position: static;
     }
 }
